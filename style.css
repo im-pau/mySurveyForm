@@ -36,7 +36,7 @@ background-size: cover;");
       text-align: center;
       }
       .text-white {
-      color: #ffffff;    <!-- #ffe3a9; -->
+      color: #ffffff;  
       }
       fieldset {
       border: none;
@@ -51,7 +51,7 @@ background-size: cover;");
       font-weight: 500;
       }
       header {
-      color: #fffff;
+      color: #ffffff;
       margin-bottom: 3px;
       padding: 10px;
       background-color: #ffffff;
@@ -63,7 +63,7 @@ background-position: top left;
       p {
       margin-bottom: 1px;
       background-color: #;
-      color: #00000;
+      color: #000000;
       font-style: italic;
       
   
@@ -84,7 +84,7 @@ background-position: top left;
       }
       input, select {
       padding: 15px;
-      border: 10px solild #ccc;
+      border: 10px solid #ccc;
       border-radious: 6px;
       font-size: 14px;
       
