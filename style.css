@@ -79,7 +79,7 @@ background-position: top left;
       }
       .form-group {
       flex: 1;
-      displaay: flex;
+      display: flex;
       flex-direction: column;
       }
       input, select {
